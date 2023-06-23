@@ -1,0 +1,15 @@
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/bin/Debug/net7.0/IterationExerciseOne
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/bin/Debug/net7.0/IterationExerciseOne.deps.json
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/bin/Debug/net7.0/IterationExerciseOne.runtimeconfig.json
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/bin/Debug/net7.0/IterationExerciseOne.dll
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/bin/Debug/net7.0/IterationExerciseOne.pdb
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/obj/Debug/net7.0/IterationExerciseOne.csproj.AssemblyReference.cache
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/obj/Debug/net7.0/IterationExerciseOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/obj/Debug/net7.0/IterationExerciseOne.AssemblyInfoInputs.cache
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/obj/Debug/net7.0/IterationExerciseOne.AssemblyInfo.cs
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/obj/Debug/net7.0/IterationExerciseOne.csproj.CoreCompileInputs.cache
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/obj/Debug/net7.0/IterationExerciseOne.dll
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/obj/Debug/net7.0/refint/IterationExerciseOne.dll
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/obj/Debug/net7.0/IterationExerciseOne.pdb
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/obj/Debug/net7.0/IterationExerciseOne.genruntimeconfig.cache
+/home/trillion/Repos/Iteration-Statements-Ex1/IterationExerciseOne/obj/Debug/net7.0/ref/IterationExerciseOne.dll
